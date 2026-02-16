@@ -5,8 +5,8 @@ import (
 	"strings"
 
 	"github.com/projectdiscovery/dnsx/libs/dnsx"
-	"github.com/projectdiscovery/subfinder/v2/pkg/passive"
-	"github.com/projectdiscovery/subfinder/v2/pkg/resolve"
+	"github.com/broken5/subfinder/v2/pkg/passive"
+	"github.com/broken5/subfinder/v2/pkg/resolve"
 )
 
 // initializePassiveEngine creates the passive engine and loads sources etc

@@ -9,7 +9,7 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/projectdiscovery/subfinder/v2/pkg/subscraping"
+	"github.com/broken5/subfinder/v2/pkg/subscraping"
 )
 
 // SleepRandIntn is the integer value to get the pseudo-random number

@@ -16,9 +16,9 @@ import (
 	fileutil "github.com/projectdiscovery/utils/file"
 	mapsutil "github.com/projectdiscovery/utils/maps"
 
-	"github.com/projectdiscovery/subfinder/v2/pkg/passive"
-	"github.com/projectdiscovery/subfinder/v2/pkg/resolve"
-	"github.com/projectdiscovery/subfinder/v2/pkg/subscraping"
+	"github.com/broken5/subfinder/v2/pkg/passive"
+	"github.com/broken5/subfinder/v2/pkg/resolve"
+	"github.com/broken5/subfinder/v2/pkg/subscraping"
 )
 
 // Runner is an instance of the subdomain enumeration

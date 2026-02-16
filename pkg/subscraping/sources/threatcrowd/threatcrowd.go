@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/projectdiscovery/subfinder/v2/pkg/subscraping"
+	"github.com/broken5/subfinder/v2/pkg/subscraping"
 )
 
 // threatCrowdResponse represents the JSON response from the ThreatCrowd API.

@@ -9,7 +9,7 @@ import (
 
 	"github.com/projectdiscovery/gologger"
 	"github.com/projectdiscovery/retryablehttp-go"
-	"github.com/projectdiscovery/subfinder/v2/pkg/subscraping"
+	"github.com/broken5/subfinder/v2/pkg/subscraping"
 	"github.com/projectdiscovery/utils/generic"
 	urlutil "github.com/projectdiscovery/utils/url"
 )

@@ -6,7 +6,7 @@ import (
 	"io"
 	"log"
 
-	"github.com/projectdiscovery/subfinder/v2/pkg/runner"
+	"github.com/broken5/subfinder/v2/pkg/runner"
 )
 
 func main() {

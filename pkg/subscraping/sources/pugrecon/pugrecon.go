@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/projectdiscovery/subfinder/v2/pkg/subscraping"
+	"github.com/broken5/subfinder/v2/pkg/subscraping"
 )
 
 // pugreconResult stores a single result from the pugrecon API

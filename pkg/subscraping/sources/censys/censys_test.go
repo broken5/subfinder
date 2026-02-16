@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/projectdiscovery/ratelimit"
-	"github.com/projectdiscovery/subfinder/v2/pkg/subscraping"
+	"github.com/broken5/subfinder/v2/pkg/subscraping"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )
